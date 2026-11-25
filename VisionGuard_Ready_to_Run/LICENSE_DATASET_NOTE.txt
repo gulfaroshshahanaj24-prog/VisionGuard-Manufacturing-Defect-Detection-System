@@ -1,0 +1,2 @@
+Dataset note:
+This ZIP does not include MVTec AD or any third-party image dataset. Download datasets only from their official source and follow the dataset license and terms. Do not upload restricted dataset images to a public GitHub repository.
